@@ -1,11 +1,11 @@
-# 1LXL California Highway (Freeway) Signs for Cities: Skylines II
+# 2LXL California Highway (Freeway) Signs for Cities: Skylines II
 
-Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module** that brings 1 lane extra large (X-Large) California highway (freeway) signs into Cities: Skylines II!
+Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module** that brings 2 lane extra large (X-Large) California highway (freeway) signs into Cities: Skylines II!
 
 ## Features
 
-- 1 Lane (X-Large) California Highway (Freeway) signs inspired by California's MUTCD
-- 50 total signs (see screenshots)
+- 2 Lane (X-Large) California Highway (Freeway) signs inspired by California's MUTCD
+- 73 total signs (see screenshots)
 - WE Layout included for easy implementation onto your highways (freeways)
 
 ## How to Use
@@ -17,17 +17,17 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 5. Click on the Folder Icon (Import/load...).
 6. Click on Import layout from xml at root.
 7. Click on the puzzle-piece (Templates from mods)... (see screenshot)
-8. Click on 1LXL CA Highway Signs (WE). (see screenshot)
-9. Click on 1LXL CA Highway Sign.wedefault.xml. (see screenshot)
+8. Click on 2LXL CA Highway Signs (WE). (see screenshot)
+9. Click on 2LXL CA Highway Sign.wedefault.xml. (see screenshot)
 10. The layout will be added to WE's COMPONENTS TREE window. (see screenshot)
-11. Click the down arrow on 1LXL CA Highway Sign.
+11. Click the down arrow on 2LXL CA Highway Sign.
 12. Select Sign Image.
-13. On the CONTENT window, set Atlas to 1LXL CA Highway Signs (WE):1LXL CA Highway Signs. (see screenshot)
-14. Set Image and customize it to your city needs! (there are plenty of WE Modules on Paradox Mods that include highway shields for use with 1LXL CA Highway (Freeway) Signs)
+13. On the CONTENT window, set Atlas to 2LXL CA Highway Signs (WE):2LXL CA Highway Signs. (see screenshot)
+14. Set Image and customize it to your city needs! (there are plenty of WE Modules on Paradox Mods that include highway shields for use with 2LXL CA Highway (Freeway) Signs)
 
 There is some terminology that you can use to determine what sign is what:
 
-- 1LXL - 1 Lane X-Large
+- 2LXL - 2 Lane X-Large
 - Blank - Blank Sign
 - YB - Yellow Banner
 - EO - Exit Only
